@@ -1,0 +1,5 @@
+- 👋 Hi,  eu sou Josue vinicius
+- 👀 I’m interested in  criação de apps  android e sites
+- 🌱 I’m currently learning  em  PHP e html
+- 💞️ I’m looking to collaborate on criaç de sites e serviços que facilitem o desenvolvimento do mercado
+- 📫 How to reach me é mandar mensagem no meu instagram
